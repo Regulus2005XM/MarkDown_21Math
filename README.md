@@ -6,6 +6,9 @@
 > >[alpha](Basic\alpha.md) 希腊字母表，包含大小写与var特殊变体
 > >
 百度网盘下载链接(最后更新2024/9/27)：[baidu](https://pan.baidu.com/s/1WG9Xp1D69wbdbN-ku3wLSQ?pwd=1729) 提取码: 1729
+
 夸克网盘下载链接(最后更新2024/9/27)：[kuake](https://pan.quark.cn/s/561bee46ea4d) 提取码：9wi4
+
 github地址：https://github.com/Regulus2005XM/MarkDown_21Math
+
 反馈与建议可发送到: xyregulus2005@gmail.com
