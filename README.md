@@ -2,6 +2,7 @@
 #### MarkDown的一些基本语法与使用心得，并根据部分数学课程(离散数学等)设置了符号速查表与重定义宏，便于记忆与使用。实现难度不高，可根据自己的使用习惯进行调整。
 >Math
 > >[Discrete_Math](Math\Discrete_Math.md) 离散数学相关的符号与重定义
+
 >Basic
 > >[alpha](Basic\alpha.md) 希腊字母表，包含大小写与var特殊变体
 > >
